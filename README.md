@@ -10,4 +10,4 @@
 
 #界面
 
-![image](https://github.com/sechacking/sgk/blob/master/web.png)
+![image](https://raw.githubusercontent.com/sechacking/sgk/master/web.png)
