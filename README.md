@@ -12,7 +12,7 @@
 
 #优点
 
-1.基于elasticsearch，在数据的处理上要由于spinx</br>
+1.基于elasticsearch，在数据的处理上要优于spinx</br>
 2.数据清洗，格式化和备份都比solr和spinx要简单</br>
 3.速度快啊</br>
 
